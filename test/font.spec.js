@@ -63,7 +63,7 @@ before(function (done) {
         }))
         .use(Fontmin.ttf2eot())
         .use(Fontmin.ttf2woff({deflate: true}))
-        .use(Fontmin.ttf2woff2())
+        // .use(Fontmin.ttf2woff2())
         .use(Fontmin.ttf2svg())
         .use(Fontmin.css({
             glyph: true,

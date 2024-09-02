@@ -1,5 +1,5 @@
 {
-  "name": "fontmin",
+  "name": "fontmin-kallka",
   "version": "1.1.0",
   "description": "Minify font seamlessly, font subsetter, webfont (eot, woff, svg) converter.",
   "main": "index.js",
@@ -21,7 +21,6 @@
     "svg",
     "ttf2eot",
     "ttf2woff",
-    "ttf2woff2",
     "ttf2svg",
     "svg2ttf",
     "css",
@@ -62,7 +61,6 @@
     "replace-ext": "^2.0.0",
     "stream-combiner": "^0.2.1",
     "through2": "^4.0.2",
-    "ttf2woff2": "^4.0.1",
     "vinyl-fs": "^3.0.3"
   },
   "devDependencies": {

@@ -44,8 +44,8 @@ import rename from 'gulp-rename';
 }
 
 {
-    const fontmin = new Fontmin()
-        .use(Fontmin.ttf2woff2());
+    // const fontmin = new Fontmin()
+    //     .use(Fontmin.ttf2woff2());
 }
 
 
