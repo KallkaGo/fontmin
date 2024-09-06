@@ -5,8 +5,10 @@
     </a>
 </p>
 
-# fontmin
+# fontmin-kallka
 **Minify font seamlessly**
+
+Already adapted to vercel,Removed ttf2woff2 module
 
 [![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
@@ -25,7 +27,7 @@
 ## Install
 
 ```sh
-$ npm install --save fontmin
+$ npm install --save fontmin-kallka
 ```
 
 ## Usage
